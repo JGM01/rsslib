@@ -6,3 +6,5 @@
 !Cargo.{toml,lock}
 
 !docs/*.md
+
+!README.md
