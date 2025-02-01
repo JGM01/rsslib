@@ -1,1 +1,8 @@
-/target
+*
+
+!.gitignore
+
+!src/*.rs
+!Cargo.{toml,lock}
+
+!docs/*.md
